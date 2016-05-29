@@ -1,0 +1,10 @@
+{
+  "env": {
+    "node": true,
+    "es6": true
+  }, // http://eslint.org/docs/user-guide/configuring#specifying-environments
+  "extends": [
+    "eslint:recommended"
+  ], // http://eslint.org/docs/user-guide/configuring#extending-configuration-files
+  "parser": "babel-eslint"          // https://github.com/babel/babel-eslint
+}
