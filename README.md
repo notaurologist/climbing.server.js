@@ -1,2 +1,2 @@
 # climbing
-Mythical climb-tracking site. Server.
+Mythical climb-tracking app. Server. JavaScript edition.
